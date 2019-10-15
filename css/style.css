@@ -1,0 +1,97 @@
+body.sign-in {
+    background-image: -webkit-linear-gradient(357deg,rgba(161,106,192,0.55) 0%,rgba(50,255,0,0.62) 100%);
+    background-image: -moz-linear-gradient(357deg,rgba(161,106,192,0.55) 0%,rgba(50,255,0,0.62) 100%);
+    background-image: -o-linear-gradient(357deg,rgba(161,106,192,0.55) 0%,rgba(50,255,0,0.62) 100%);
+    background-image: linear-gradient(93deg,rgba(161,106,192,0.55) 0%,rgba(50,255,0,0.62) 100%);
+   
+
+}
+.container.sign-in-container {
+    margin-top: 7%;
+    
+}
+.card.signin-card{
+    padding: 40px 0px 20 px;
+    box-shadow: 2px 2px 0.3px rgba(0,0,0,0.30);
+    -webkit-box-shadow: 2px 2px 0.3px rgba(0,0,0,0.30);
+    background-color: rgba(110,118,214,0.39);
+
+}
+.card-block{
+    margin: auto;
+
+}
+.card.signin-card .card-block .img-fluid {
+    padding-top: 0rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    display: block;
+    padding-bottom: 2px;
+}
+
+
+
+.card.signin-card .sign-in-form {
+    max-width: 350px;
+    margin: auto;
+    display: block;
+    
+}
+
+.sign-in .container.sign-in-container .Create-New-Account {
+    display: block;
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+    margin-top: 15px;
+}
+
+
+body {
+    background-color: rgba(215,208,208,0.70);
+    padding-bottom: 20px;
+}
+.col-md-12 .container .display-3.text-center {
+    font-family: Jokerman;
+    
+    margin-top: 5px;
+}
+
+.row .col-sm-12.col-md-1.offset-md-2 .img-fluid {
+    border-radius: 10px;
+}
+
+
+.loremi {
+    margin: auto;
+    padding: auto;
+    background-color: rgba(179,179,179,0.95);
+}
+.container-fluid .row.loremi .col-sm-12.col-md-1.offset-md-2 {
+}
+.container-fluid .row.padding {
+    padding: 5px;
+}
+.row .col .img-fluid.jjjj {
+    margin: auto;
+}
+
+.col-sm-12.col-md-6 .row .col.center {
+    margin: auto;
+}
+.row .col-sm-12 .btn.btn-primary {
+    display: block;
+    margin: auto;
+    background-color: rgba(255,0,0,1.00);
+    color: rgba(0,0,0,1.00);
+    -webkit-box-shadow: 0px 0px 0px 2px rgba(53,53,53,0.30);
+    box-shadow: 0px 0px 0px 2px rgba(53,53,53,0.30);
+}
+div .row .col-sm-12 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.modal-content .modal-header #exampleModalLabel {
+    margin: auto;
+}
